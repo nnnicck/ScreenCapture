@@ -1,5 +1,5 @@
 /*
-ScreenCapture by Nick Baker, Director of the Imaging Center at Smith College
+ScreenCapture by Nick Baker and The Imaging Center at Smith College
 
 Capture the screen and save as PNG images in a uniquely named subfolder
 
@@ -47,7 +47,7 @@ void draw() {
     imgCount++;
   }
   
-  // wait one second before taking the next screenshot
+  // wait one second (1000ms) before taking the next screenshot
   delay(1000);
 }
  
