@@ -1,5 +1,5 @@
 # ScreenCapture
-Captures images of your screen and saves them as PNGs for use in artworks, tutorials, time lapse movies, etc.
+Captures images of your screen using Processing and saves them as PNGs for use in artworks, tutorials, time lapse movies, etc.
 
 by Nick Baker, Director of the Imaging Center at Smith College
 
